@@ -1,9 +1,3 @@
-# PORTOFOLIO PT. HALLO INDONESIA TEKNOLOGI (HIT)
-Berikut pembagian portofolio berdasarkan kategori produk dan jasa.
-
-> Catatan: Item yang bukan kategori IT secara langsung (ATK, groceries, buku, kebersihan, rumah tangga, dll) ditempatkan pada section **Lainnya** agar tidak dipaksakan masuk kategori yang kurang tepat.
-
----
 
 ## 1) Office Equipment (Laptop, PC, Proyektor, Server, IFP, Printer, dll)
 
